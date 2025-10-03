@@ -1,3 +1,22 @@
- body{
-    background-color: blue;
- }
+body{
+    color: white;
+    background-color: rgb(000,000,000);
+
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    gap: 16px;
+    margin-right: 50%;
+    text-align: center;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    gap: 40px;
+    align-items: center;
+}
